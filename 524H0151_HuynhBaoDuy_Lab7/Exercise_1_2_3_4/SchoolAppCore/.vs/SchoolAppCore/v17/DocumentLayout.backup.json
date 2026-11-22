@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|d:\\cnpm\\lab7\\exercise_1_2_3_4\\schoolappcore\\schoolappcore\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D5A0CF-CF5E-4C93-91AF-0324E9ACDC7A}|SchoolAppCore\\SchoolAppCore.csproj|solutionrelative:schoolappcore\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Models\\Course.cs",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Course.cs",
+              "RelativeToolTip": "SchoolAppCore\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:32:35.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Models\\Instructor.cs",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Instructor.cs",
+              "RelativeToolTip": "SchoolAppCore\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:32:09.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolAppCore\\appsettings.json",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\appsettings.json",
+              "RelativeToolTip": "SchoolAppCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T19:29:40.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SchoolAppCore\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T19:52:24.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Program.cs",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Program.cs",
+              "RelativeToolTip": "SchoolAppCore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:33:45.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Models\\Student.cs",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolAppCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:32:57.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Enrollment.cs",
+              "RelativeToolTip": "SchoolAppCore\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:33:18.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Models\\Department.cs",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\Department.cs",
+              "RelativeToolTip": "SchoolAppCore\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:31:44.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "SchoolAppCore\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\CNPM\\Lab7\\Exercise_1_2_3_4\\SchoolAppCore\\SchoolAppCore\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "SchoolAppCore\\Models\\SchoolContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T19:30:56.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
